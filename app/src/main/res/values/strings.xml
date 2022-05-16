@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MoviesRetrofit</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="textview2">TextView</string>
+</resources>
